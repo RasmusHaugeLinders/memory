@@ -1,0 +1,16 @@
+{
+    "name": "Flip Game",
+    "icons": [
+        {
+            "src": "icon2.png",
+            "sizes": "114x114",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#9E9E9E",
+    "background_color": "#9E9E9E",
+    "scope": "xxxx/app/",
+    "start_url": "xxxx/app/index.html",
+    "display": "standalone",
+    "orientation": "portrait"
+}
