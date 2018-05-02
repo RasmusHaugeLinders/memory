@@ -9,8 +9,8 @@
     ],
     "theme_color": "#9E9E9E",
     "background_color": "#9E9E9E",
-    "scope": "https://rasmushaugelinders.github.io/memory//app/",
-    "start_url": "https://rasmushaugelinders.github.io/memory//app/index.html",
+    "scope": "https://rasmushaugelinders.github.io/memory/",
+    "start_url": "https://rasmushaugelinders.github.io/memory/index.html",
     "display": "standalone",
     "orientation": "portrait"
 }
